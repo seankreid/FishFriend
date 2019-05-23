@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "988644345115",
+    "firebase_url": "https://fishfriend-b2647.firebaseio.com",
+    "project_id": "fishfriend-b2647",
+    "storage_bucket": "fishfriend-b2647.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988644345115:android:14dc62660944cecc",
+        "android_client_info": {
+          "package_name": "com.example.jason.fishfriend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988644345115-3v2gmqi8bc2ekdjeidmkk97diiifh19n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAJ6K3lWFYGRlfpnwKsNAZ7rJWXRgAEvA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
