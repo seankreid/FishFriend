@@ -11,5 +11,5 @@ Android application. Place markers on map to save favorite fishing spots and oth
 
 * Java - Programming Language
 * [Firebase](https://firebase.google.com/) - User authentication and database
-* [National Data Buoy Center](https://www.ndbc.noaa.gov/) - Display live weather statistics
+* [National Data Buoy Center](https://www.ndbc.noaa.gov/) - Obtain live weather statistics from buoys around the world
 * [Mapbox](https://www.mapbox.com/) - Display map
